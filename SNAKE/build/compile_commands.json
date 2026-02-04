@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/axelfransson/Desktop/c++/SNAKE/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -o CMakeFiles/app.dir/main.cpp.o -c /Users/axelfransson/Desktop/c++/SNAKE/main.cpp",
+  "file": "/Users/axelfransson/Desktop/c++/SNAKE/main.cpp",
+  "output": "CMakeFiles/app.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/axelfransson/Desktop/c++/SNAKE/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -o CMakeFiles/app.dir/src/Map.cpp.o -c /Users/axelfransson/Desktop/c++/SNAKE/src/Map.cpp",
+  "file": "/Users/axelfransson/Desktop/c++/SNAKE/src/Map.cpp",
+  "output": "CMakeFiles/app.dir/src/Map.cpp.o"
+},
+{
+  "directory": "/Users/axelfransson/Desktop/c++/SNAKE/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -o CMakeFiles/app.dir/src/Food.cpp.o -c /Users/axelfransson/Desktop/c++/SNAKE/src/Food.cpp",
+  "file": "/Users/axelfransson/Desktop/c++/SNAKE/src/Food.cpp",
+  "output": "CMakeFiles/app.dir/src/Food.cpp.o"
+},
+{
+  "directory": "/Users/axelfransson/Desktop/c++/SNAKE/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -o CMakeFiles/app.dir/src/Snake.cpp.o -c /Users/axelfransson/Desktop/c++/SNAKE/src/Snake.cpp",
+  "file": "/Users/axelfransson/Desktop/c++/SNAKE/src/Snake.cpp",
+  "output": "CMakeFiles/app.dir/src/Snake.cpp.o"
+},
+{
+  "directory": "/Users/axelfransson/Desktop/c++/SNAKE/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -o CMakeFiles/app.dir/src/Game.cpp.o -c /Users/axelfransson/Desktop/c++/SNAKE/src/Game.cpp",
+  "file": "/Users/axelfransson/Desktop/c++/SNAKE/src/Game.cpp",
+  "output": "CMakeFiles/app.dir/src/Game.cpp.o"
+}
+]

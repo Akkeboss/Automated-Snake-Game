@@ -1,0 +1,3 @@
+/Users/axelfransson/Desktop/c++/SNAKE/build/CMakeFiles/app.dir
+/Users/axelfransson/Desktop/c++/SNAKE/build/CMakeFiles/edit_cache.dir
+/Users/axelfransson/Desktop/c++/SNAKE/build/CMakeFiles/rebuild_cache.dir
