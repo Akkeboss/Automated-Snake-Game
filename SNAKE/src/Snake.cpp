@@ -74,7 +74,6 @@ void Snake::MoveSnake(const int move)
                 {
                     int PrevRow = m_Snake[i][1];
                     int PrevCol = m_Snake[i][2];
-                    //This is wrong right now
                     m_Snake[i][1] = m_SnakeHeadPrevRowPos;
                     m_Snake[i][2] = m_SnakeHeadPrevColPos;
 
@@ -98,7 +97,6 @@ void Snake::MoveSnake(const int move)
                 {
                     int PrevRow = m_Snake[i][1];
                     int PrevCol = m_Snake[i][2];
-                    //This is wrong right now
                     m_Snake[i][1] = m_SnakeHeadPrevRowPos;
                     m_Snake[i][2] = m_SnakeHeadPrevColPos;
 
