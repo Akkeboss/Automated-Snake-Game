@@ -1,0 +1,3 @@
+/Users/axelfransson/Desktop/c++/Automated-Snake-Game/build/CMakeFiles/app.dir
+/Users/axelfransson/Desktop/c++/Automated-Snake-Game/build/CMakeFiles/edit_cache.dir
+/Users/axelfransson/Desktop/c++/Automated-Snake-Game/build/CMakeFiles/rebuild_cache.dir

@@ -1,10 +1,8 @@
+Build:
+Compiler: G++
+Language: C++17
 
- ............
- ............
- ..>.........
- ........*...
- ............
+Game:
+Automated Snake
+Runs in terminal
 
----> is the snake
-
-if the head of the snake "hits" its on body then dead
